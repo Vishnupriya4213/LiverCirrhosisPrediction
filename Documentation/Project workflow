@@ -1,9 +1,9 @@
-# Activity 2: System Overview and Predictive Workflow Documentation 
+# **Activity 2: System Overview and Predictive Workflow Documentation**
 
-# Objective:
+## **Objective:**
 	Document the end-to-end process of building and deploying a liver cirrhosis prediction model using machine learning.
 
-# Work Done:
+## **Work Done:**
 
 	Developed an overview of the pipeline:
 
@@ -17,7 +17,7 @@
 
 		Data privacy and interpretability.
 
-# Covered Topics:
+## **Covered Topics:**
 
 	Introduction to ML in healthcare.
 
@@ -35,7 +35,7 @@
 
 	Clinical deployment and limitations.
 
-# Outcome:
+## **Outcome:**
 
 	A well-structured documentation of system architecture and design.
 
