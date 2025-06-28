@@ -17,23 +17,23 @@
 
 		Data privacy and interpretability.
 
-#	Covered Topics:
+# Covered Topics:
 
-		Introduction to ML in healthcare.
+	Introduction to ML in healthcare.
 
-		Dataset cleaning and preparation.
+	Dataset cleaning and preparation.
 
-		Exploratory Data Analysis (EDA) for understanding key patterns.
+	Exploratory Data Analysis (EDA) for understanding key patterns.
 
-		Feature engineering and handling imbalanced data.
+	Feature engineering and handling imbalanced data.
 
-		Model selection: Logistic Regression, Random Forest, SVM, Gradient Boosting.
+	Model selection: Logistic Regression, Random Forest, SVM, Gradient Boosting.
 
-		Evaluation using metrics like Accuracy, Precision, Recall, F1-score, ROC Curve.
+	Evaluation using metrics like Accuracy, Precision, Recall, F1-score, ROC Curve.
 
-		Interpretability using SHAP, feature importance plots.
+	Interpretability using SHAP, feature importance plots.
 
-		Clinical deployment and limitations.
+	Clinical deployment and limitations.
 
 # Outcome:
 
