@@ -97,3 +97,4 @@ Add EDA and model explainability (SHAP/LIME)
 # 📬 Contact
 Vishnu Priya Dande
 St. Ann's College of Engineering and Technology
+vishnupriyadande2004@gmail.com
